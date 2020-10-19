@@ -1,6 +1,6 @@
 # dockerized jenkins pipeline
 
-This project demonstrates the creation of a Jenkins CI/CD Pipeline inside a container hosted with Docker. The availability of the application and its versions are tracked GitHub.
+This project demonstrates the creation of a Jenkins CI/CD Pipeline inside a container hosted with Docker. The availability of the application and its versions are tracked here in this GitHub repository.
 
 ## Tasks
 
